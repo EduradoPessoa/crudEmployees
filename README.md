@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [https://www.youtube.com/watch?v=CusfUmB6mkY&list=PL6n9fhu94yhWNJaDgh0mfae_9xoQ4E_Zj]
 
+[imagem](https://github.com/EduradoPessoa/crudEmployees/Captura de tela em 2019-12-23 22-06-43.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
